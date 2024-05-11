@@ -1,0 +1,15 @@
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/bin/Debug/net6.0/CW2
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/bin/Debug/net6.0/CW2.deps.json
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/bin/Debug/net6.0/CW2.runtimeconfig.json
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/bin/Debug/net6.0/CW2.dll
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/bin/Debug/net6.0/CW2.pdb
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.csproj.AssemblyReference.cache
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.AssemblyInfoInputs.cache
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.AssemblyInfo.cs
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.csproj.CoreCompileInputs.cache
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.dll
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/refint/CW2.dll
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.pdb
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/CW2.genruntimeconfig.cache
+/Users/mikolajsadownik/Desktop/Zadanie2/cwiczenia_2_dt-mikolajsadownik/obj/Debug/net6.0/ref/CW2.dll
