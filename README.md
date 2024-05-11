@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Unique Students Parser** is a Python application that reads a CSV file with student records, filters out duplicates and erroneous entries, and saves the cleaned data into a JSON file. This application ensures that each student is unique and combines study programs for students already included in the file.
+**Unique Students Parser** is a application that reads a CSV file with student records, filters out duplicates and erroneous entries, and saves the cleaned data into a JSON file. This application ensures that each student is unique and combines study programs for students already included in the file.
 
 ## Features
 
